@@ -20,6 +20,11 @@ The simulation currently includes:
 Even though the current version is still unoptimized, it already creates interesting movement and patterns.</p>
 
 <h2>Screenshots</h2>
+<p align="center">
+<img src="https://github.com/ChromoXD/Particle-Life/blob/main/bloopers/Screenshot%202026-04-20%20213832.png" width="20%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ChromoXD/Particle-Life/blob/main/bloopers/Screenshot%202026-04-20%20213850.png" width="20%">
+</p>
 
 <h2>Current Limitations</h2>
 <p>Right now, the simulation is still CPU-based and not very optimized. As the particle count increases, performance starts dropping quickly.

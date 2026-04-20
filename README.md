@@ -1,4 +1,8 @@
-<h1>Particle Life Simulation</h1>
+# Particle Life Simulation
+
+<p align="center">
+  <h4 align="center"><a href="https://chromoxd.github.io/Conway-Game-of-life/">Live Preview</a></h4></h4>
+</p>
 
 <p>A particle-based life simulation built as a casual curiosity project. The main goal was not to create something polished or scientifically accurate, but to experiment, challenge myself, and see how simple force rules can create complex behavior.</p>
 

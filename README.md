@@ -21,9 +21,9 @@ Even though the current version is still unoptimized, it already creates interes
 
 <h2>Screenshots</h2>
 <p align="center">
-<img src="https://github.com/ChromoXD/Particle-Life/blob/main/bloopers/Screenshot%202026-04-20%20213832.png" width="50%">
+<img src="https://github.com/ChromoXD/Particle-Life/blob/main/bloopers/Screenshot%202026-04-20%20213832.png" width="45%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/ChromoXD/Particle-Life/blob/main/bloopers/Screenshot%202026-04-20%20213850.png" width="50%">
+<img src="https://github.com/ChromoXD/Particle-Life/blob/main/bloopers/Screenshot%202026-04-20%20213850.png" width="45%">
 </p>
 
 <h2>Current Limitations</h2>
